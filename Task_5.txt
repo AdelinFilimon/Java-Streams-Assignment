@@ -1,0 +1,9 @@
+Breakfast duration: 171minutes
+Toileting duration: 124minutes
+Grooming duration: 139minutes
+Sleeping duration: 7856minutes
+Leaving duration: 1658minutes
+Spare_Time/TV duration: 8510minutes
+Showering duration: 85minutes
+Snack duration: 4minutes
+Lunch duration: 310minutes
